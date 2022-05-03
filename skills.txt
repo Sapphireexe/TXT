@@ -1,0 +1,10 @@
+1) Linux Terminal
+2) JavaScript
+3) Postman
+4) SQL
+5) Android Studio
+6) Browser DevTools
+7) Test design
+8) Test documentation
+9) Charles
+10) Jmeter
