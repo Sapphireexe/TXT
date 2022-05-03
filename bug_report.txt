@@ -1,1 +1,12 @@
-
+1) Bug_ID
+2) Summary
+3) Version_number
+4) Severity
+5) Priority
+6) Author
+7) Assigned to
+8) Environment
+9) Steps
+10) Actual_result
+11) Expected_result
+12) Attachments
